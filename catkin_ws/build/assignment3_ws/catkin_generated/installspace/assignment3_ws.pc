@@ -1,0 +1,8 @@
+prefix=/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/install
+
+Name: assignment3_ws
+Description: Description of assignment3_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -6,4 +6,4 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("assignment2_ws")
-subdirs("turtlesim_cleaner")
+subdirs("assignment3_ws")

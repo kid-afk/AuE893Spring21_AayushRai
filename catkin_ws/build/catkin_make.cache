@@ -1,2 +1,2 @@
-assignment2_ws:turtlesim_cleaner
+assignment2_ws:assignment3_ws
 -DCATKIN_DEVEL_PREFIX=/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/install -G Unix Makefiles

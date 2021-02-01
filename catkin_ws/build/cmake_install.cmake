@@ -132,7 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/build/assignment2_ws/cmake_install.cmake")
-  include("/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/build/turtlesim_cleaner/cmake_install.cmake")
+  include("/home/arai/git_ws/AuE893Spring21_AayushRai/catkin_ws/build/assignment3_ws/cmake_install.cmake")
 
 endif()
 
